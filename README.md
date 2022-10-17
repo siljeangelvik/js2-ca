@@ -12,8 +12,6 @@ GitHub: [js2-ca](https://github.com/siljeangelvik/js2-ca)
 * Delete
 * Comment
 
-
-
 ###Resources
 [Vimeo: JWT](https://vimeo.com/750977058/86a9f2f2a0)  
 [Postman](https://web.postman.co/)  
