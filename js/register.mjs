@@ -37,7 +37,7 @@ function register() {
     }
     if (isValidUserName(validUsername) && isValidEmail(validEmail) && isValidPassword(validPassword)) {
         console.log("Logged In");
-        window.location="login.html"
+        window.location="index.html"
         return false;
     }
 }

@@ -27,7 +27,7 @@ function login() {
     }
     if (isValidUserName(validUsername) && isValidPassword(validPassword)) {
         console.log("Logged In");
-        window.location="index.html"
+        window.location="posts.html"
         return false;
     }
 }
