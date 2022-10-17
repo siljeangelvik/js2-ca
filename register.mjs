@@ -17,12 +17,10 @@ const isValidPassword = userPassword => {
     return passwordRegex.test(String(userPassword));
 };
 
-
 function register() {
     let validUsername = username.value.trim();
     let validEmail = email.value.trim();
     let validPassword = password.value.trim();
-
 
     if (!isValidUserName(validUsername)) {
         console.log("wrong username");
@@ -42,14 +40,12 @@ function register() {
         window.location="login.html"
         return false;
     }
-
 }
 
 document.querySelector("#form").addEventListener("click", function(e){
     e.preventDefault();
     register();
 });
-
 
 async function registerUser(registerUrl, userData) {
     // console.log(userData);

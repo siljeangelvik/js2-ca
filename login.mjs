@@ -12,7 +12,6 @@ const isValidPassword = userPassword => {
     return passwordRegex.test(String(userPassword));
 };
 
-
 function login() {
     let validUsername = username.value.trim();
     let validPassword = password.value.trim();
@@ -31,15 +30,12 @@ function login() {
         window.location="index.html"
         return false;
     }
-
 }
 
 document.querySelector("#form").addEventListener("click", function(e){
     e.preventDefault();
     login();
 });
-
-
 
 async function loginUser(loginUrl, userData) {
     // console.log(userData);
