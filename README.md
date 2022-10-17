@@ -11,6 +11,7 @@ GitHub: [js2-ca](https://github.com/siljeangelvik/js2-ca)
 * Edit
 * Delete
 * Comment
+* Log out
 
 ###Resources
 [JSON Placeholder](https://jsonplaceholder.typicode.com/)  
