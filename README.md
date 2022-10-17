@@ -13,9 +13,11 @@ GitHub: [js2-ca](https://github.com/siljeangelvik/js2-ca)
 * Comment
 
 ###Resources
+[JSON Placeholder](https://jsonplaceholder.typicode.com/)  
 [Vimeo: JWT](https://vimeo.com/750977058/86a9f2f2a0)  
 [Postman](https://web.postman.co/)  
 [User Redirect](https://howto.caspio.com/tech-tips-and-articles/common-customizations/create-user-specific-redirect-after-login/)  
+[MDN: LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)  
 [MDN: setRequestHeader](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader)  
 [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve)  
 [MDN: String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)  
